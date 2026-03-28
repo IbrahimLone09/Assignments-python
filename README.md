@@ -6,7 +6,7 @@ In this repository all the college assignments which are simple but conceputal o
 - This program converts distance from miles to kilometers and calculates fuel required to cover that distance which user entered and also calculates the travel cost with the remainder wheather the journey is expensive or affordable.
 
 - MATHEMATICAL COMPUTATIONS
-This program is purely based on mathematical functions like calculating factorial,sum of squares,terms of gp etc.
+- This program is purely based on mathematical functions like calculating factorial,sum of squares,terms of gp etc.
 
 
 ## Technologies used  
