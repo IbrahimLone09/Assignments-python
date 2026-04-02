@@ -3,7 +3,7 @@ In this repository all the college assignments which are simple but conceputal o
 
 ## Programs included
 - DISTANCE CONVERTER AND TRAVEL COST
-- This program converts distance from miles to kilometers and calculates fuel required to cover that distance which user entered and also calculates the travel cost with the remainder wheather the journey is expensive or affordable.
+- This program converts distance from miles to kilometers and calculates fuel required to cover that distance which user entered and also calculates the travel cost with the remainder wheather the journey is expensive or affordable.A very logical mathematical program to strength the basic of maths in programming.
 
 - MATHEMATICAL COMPUTATIONS
 - This program is purely based on mathematical functions like calculating factorial,sum of squares,terms of gp etc.
