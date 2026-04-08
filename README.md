@@ -18,6 +18,9 @@ In this repository all the college assignments which are simple but conceputal o
 - LIST RECURSION
 - we used list recursion to reduce function calls.
 
+- MATRIX MULTIPLICATION
+- Here we do matrix multiplication using lists
+
 ## Technologies used  
 python
 
