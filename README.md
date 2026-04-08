@@ -12,6 +12,12 @@ In this repository all the college assignments which are simple but conceputal o
 -2D LIST
 - In 2D list we have a list inside a list.
 
+- 3D LIST
+- Here we have list inside a list inside a list.
+
+- LIST RECURSION
+- we used list recursion to reduce function calls.
+
 ## Technologies used  
 python
 
