@@ -10,6 +10,7 @@ In this repository all the college assignments which are simple but conceputal o
 
 
 -2D LIST
+- In 2D list we have a list inside a list.
 
 ## Technologies used  
 python
