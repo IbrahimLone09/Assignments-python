@@ -9,6 +9,8 @@ In this repository all the college assignments which are simple but conceputal o
 - This program is purely based on mathematical functions like calculating factorial,sum of squares,terms of gp etc.
 
 
+-2D LIST
+
 ## Technologies used  
 python
 
