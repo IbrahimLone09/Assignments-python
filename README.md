@@ -21,6 +21,9 @@ In this repository all the college assignments which are simple but conceputal o
 - MATRIX MULTIPLICATION
 - Here we do matrix multiplication using lists
 
+- MATRIX POWER
+- We do multiplication here of lists using functions.
+
 ## Technologies used  
 python
 
