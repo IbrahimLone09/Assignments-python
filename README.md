@@ -24,6 +24,9 @@ In this repository all the college assignments which are simple but conceputal o
 - MATRIX POWER
 - We do multiplication here of lists using functions.
 
+- SET 
+- Here 
+
 ## Technologies used  
 python
 
