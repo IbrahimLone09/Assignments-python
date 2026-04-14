@@ -25,7 +25,7 @@ In this repository all the college assignments which are simple but conceputal o
 - We do multiplication here of lists using functions.
 
 - SET 
-- Here 
+- Here we are defining two sets as prime and odds and we are applying basic set operations such as union,intersection with function
 
 ## Technologies used  
 python
