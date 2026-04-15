@@ -27,6 +27,10 @@ In this repository all the college assignments which are simple but conceputal o
 - SET 
 - Here we are defining two sets as prime and odds and we are applying basic set operations such as union,intersection with function
 
+- DICTIONARY
+- Here we are creating dictionary printing all the values one by one then creating another dictionary and converting both into lists then printing each and every element using loops.
+
+
 ## Technologies used  
 python
 
