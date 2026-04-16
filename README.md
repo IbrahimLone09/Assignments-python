@@ -30,6 +30,9 @@ In this repository all the college assignments which are simple but conceputal o
 - DICTIONARY
 - Here we are creating dictionary printing all the values one by one then creating another dictionary and converting both into lists then printing each and every element using loops.
 
+- GET FUNCTION
+- we are creating dictionary and then allowing user to enter their favourite IIT based on their response they get the output
+
 
 ## Technologies used  
 python
