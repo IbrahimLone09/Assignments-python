@@ -46,7 +46,7 @@ Here we have list inside a list inside a list.
 
 - FILE TO DICTIONARY
 
-we create a file and perform read and write operations on that file then we convert that file into dictionary where every unique word is key
+we create a file and perform read and write operations on that file then we convert that file into dictionary where every unique word is key.there are many steps involved in this program to convert the file into its respective dictionary they are listed below.
 
 
 ## Technologies used  
