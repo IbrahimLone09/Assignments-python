@@ -10,6 +10,10 @@ This program converts distance from miles to kilometers and calculates fuel requ
 
 This program is purely based on mathematical functions like calculating factorial,sum of squares,terms of gp etc.
 
+- BMI CALCULATOR
+
+this program calculates body mass index and also shows if you are underweight,normal or overweight by taking your weight and height as inputs.
+
 
 -2D LIST
 
