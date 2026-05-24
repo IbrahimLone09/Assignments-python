@@ -8,7 +8,5 @@ def printlist(gatecs):
                 print(i)
 
 
-gatecs = [] 
-for i in gatecs:
-    gatecs = input("Enter the list! ")
+gatecs = ['ADA' , ['CLR', 'SS' ,[12]], 'DM', ['RS','SH']]
 printlist(gatecs)
